@@ -8,7 +8,6 @@ import fs from 'fs'
 global.owner = [
   ['6288804947282', 'Owner', true],
   ['6289697488609', 'owner ', true],
-  ['6285771618987', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', true],
   ['6289697488609'],
   ['6288804947282'],
   ['6289697488609'],
@@ -17,8 +16,8 @@ global.owner = [
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['6288804947282', '6289697488609'] 
-global.prems = ['6289697488609', '6288804947282'], 
+global.mods = ['6288804947282'] 
+global.prems = ['6288804947282'], 
 
 global.APIs = { // API Prefix. 
   
@@ -164,8 +163,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'Humanzdev : HumanzDev'
+global.igfg = 'HumanzDev'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
