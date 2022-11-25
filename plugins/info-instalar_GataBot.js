@@ -15,12 +15,12 @@ const fkontak = {
 }
 
 let picture = './media/menus/Menu1.jpg'
-let gata = `𝙄𝙉𝙎𝙏𝘼𝙇𝘼𝘾𝙄𝙊𝙉 𝘿𝙀 𝙂𝘼𝙏𝘼𝘽𝙊𝙏 🐈
+let gata = `𝙄𝙉𝙎𝙏𝘼𝙇𝘼𝘾𝙄𝙊𝙉 Slamet kopling 🐈
 
 *━━━━━━━━━━━━━⬣*
 ✅ 𝗜𝗡𝗦𝗧𝗔𝗟𝗔𝗥 𝗘𝗡 𝗕𝗢𝗫𝗠𝗜𝗡𝗘
 *⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
-*𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝘽𝙤𝙭𝙈𝙞𝙣𝙚*
+*Slamet kopling : 𝘽𝙤𝙭𝙈𝙞𝙣𝙚*
 *_https://youtu.be/Ko019wvu2Tc_*
 *⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
 _Pagina Oficial_ 
@@ -47,8 +47,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
 pkg install yarn
-git clone https://github.com/GataNina-Li/GataBot-MD2
-cd GataBot-MD2
+git clone https://github.com/GataNina-Li/GataBotMD-Heroku
+cd GataBotMD-Heroku
 yarn install 
 npm install
 npm update
