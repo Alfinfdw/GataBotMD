@@ -80,7 +80,7 @@ global.loadDatabase = async function loadDatabase() {
 }
 loadDatabase()
 
-global.authFile = `${opts._[0] || 'session'}.data.json` //Nombre del archivo de la sesión 
+global.authFile = `${opts._[0] || 'oscar'}.data.json` //Nombre del archivo de la sesión 
 const { state, saveState } = store.useSingleFileAuthState(global.authFile)
 
 const connectionOptions = {
