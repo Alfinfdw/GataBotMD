@@ -72,20 +72,20 @@ let enlace = { contextInfo: { externalAdReply: {title: wm, body: 'support group'
 
 
 let str = 
-`*╭━━━〔 𝙈𝙀𝙉𝙐 𝘾𝙊𝙈𝙋𝙇𝙀𝙏𝙊 〕━━⬣*
-*┆⦒ 𓃠 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 » ${vs}*
-*┆⦒ 𝙁𝙀𝘾𝙃𝘼 » ${week}, ${date}*
-*┆⦒ 𝙏𝙄𝙀𝙈𝙋𝙊 𝘼𝘾𝙏𝙄𝙑𝙊 » ${uptime}*
-*┆⦒ 𝙐𝙎𝙐𝘼𝙍𝙄𝙊𝙎 » ${Object.keys(global.db.data.users).length}*
+`*╭━━━〔 ALLMENU 〕━━⬣*
+*┆⦒ 𓃠 𝙑𝙀𝙍𝙎𝙄 » ${vs}*
+*┆⦒ TANGGAL, HARI » ${week}, ${date}*
+*┆⦒ UPTIME » ${uptime}*
+*┆⦒ USER » ${Object.keys(global.db.data.users).length}*
 *╰*┅┅┅┅┅┅┅┅┅┅┅┅┅ *✧* 
 
 *╭━〔* ${username} *〕━⬣*
-*┆🧰 EXPERIENCIA ➟ ${exp}*
-*┆🎖️ NIVEL ➟ ${level} || ${user.exp - min}/${xp}*
-*┆⚓ RANGO ➟* ${role}
-*┆💎 DIAMANTES ➟ ${limit}*
-*┆🐈 GATACOINS ➟ ${money}*
-*┆🪙 TOKENS ➟ ${joincount}*
+*┆🧰 EXP ➟ ${exp}*
+*┆🎖️ LEVEL ➟ ${level} || ${user.exp - min}/${xp}*
+*┆⚓ ROLE ➟* ${role}
+*┆💎 LIMIT ➟ ${limit}*
+*┆🐈 UANG ➟ ${money}*
+*┆🪙 JOINLIMIT ➟ ${joincount}*
 *┆🎟️ PREMIUM ➟* ${user.premiumTime > 0 ? '✅' : '❌'}
 *╰*┅┅┅┅┅┅┅┅┅┅┅┅┅ *✧*
 ${readMore}
