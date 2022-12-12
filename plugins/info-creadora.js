@@ -39,10 +39,10 @@ await conn.sendContact(m.chat, data.map(([id, name]) => [id, name]), m)
   
 let pp = './media/menus/Menu2.jpg'
 let str = `${wm}`
-let oficial = 'Comunícate con Mí Creadora por Instagram!!, Solo por ese medio puede ayudarte sobre Temas de GataBot\n\nCommunicate with My Creator on Instagram!!, Only by that means can help you on GataBot Themes'
+let oficial = 'Aku ganteng'
 
-await conn.sendHydrated2(m.chat, str, oficial, pp, 'https://github.com/GataNina-Li/GataBot-MD', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', 'https://www.instagram.com/gata_dios', '𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢', [
-['☘ 𝙄𝙧 𝙖𝙡 𝙞𝙣𝙞𝙘𝙞𝙤 | 𝙂𝙤 𝙩𝙤 𝙨𝙩𝙖𝙧𝙩', '/menu'],
+await conn.sendHydrated2(m.chat, str, oficial, pp, 'https://github.com/GataNina-Li/GataBot-MD', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', 'https://www.instagram.com/humanzzhengker', '𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢', [
+['𝙂𝙤 𝙩𝙤 Menu', '/menu'],
 ], m,)
 }
 handler.help = ['owner', 'creator']
