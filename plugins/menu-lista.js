@@ -31,7 +31,7 @@ const sections = [
 {
 title: `𝙇𝙄𝙎𝙏𝘼 𝘿𝙀𝙎𝙋𝙇𝙀𝙂𝘼𝘽𝙇𝙀 | 𝘿𝙍𝙊𝙋-𝘿𝙊𝙒𝙉 𝙇𝙄𝙎𝙏`,
 rows: [
-      {title: "💖 Owner 💖", description: null, rowId: `${usedPrefix}creadora`},
+      {title: "👨‍💻 Owner 👨‍💻", description: null, rowId: `${usedPrefix}creadora`},
       {title: "💖 DONASI 💖", description: null, rowId: `${usedPrefix}donar`},
       {title: "🐈 Cara install GataBot-MD 🐈", description: null, rowId: `${usedPrefix}instalarbot`},
       {title: "🤖 JadiBot (maintance} 🤖", description: null, rowId: `${usedPrefix}jadibot`},
@@ -65,7 +65,7 @@ let enlace = { contextInfo: { externalAdReply: {title: wm, body: 'support group'
 const listMessage = {
 text: `ListMenu GojoBotzMD`, //${name} ${ucapan()}
 title: null,
-buttonText: "𝙇𝙄𝙎𝙏𝘼 𝘿𝙀 𝙈𝙀𝙉𝙐 : 𝙇𝙄𝙎𝙏 𝙈𝙀𝙉𝙐", 
+buttonText: "Clik Here!", 
 sections }
 
 let imagen = './media/menus/Menu3.jpg'
