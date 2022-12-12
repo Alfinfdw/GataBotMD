@@ -15,7 +15,7 @@ message: {
 if (/^bot$/i.test(m.text)) {
     
 conn.sendButton(m.chat, `Hey 👉👈 
-𝑯𝒆𝒚! GojoBotzMD Disini. ada yang bisa saya bantu? 🙌`, wm, [['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', `#menu`]], 'conversation', { sendEphemeral: true, quoted: estilo })
+GojoBotzMD Disini. ada yang bisa saya bantu? 🙌`, wm, [['𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪', `#menu`]], 'conversation', { sendEphemeral: true, quoted: estilo })
 conn.sendFile(m.chat, vn, 'bot.mp3', null, m, true, { type: 'audioMessage', ptt: true, sendEphemeral: true, quoted: estiloaudio })   
 }
 return !0
