@@ -35,7 +35,7 @@ let estado =`
 
 conn.sendHydrated(m.chat, estado, wm, picture, 'https://github.com/GataNina-Li/GataBot-MD', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [
 ['𝙁𝙪𝙡𝙡 𝙈𝙚𝙣𝙪', '.allmenu'],
-['𝙑𝙚𝙡𝙤𝙘𝙞𝙙𝙖𝙙 | 𝙎𝙥𝙚𝙚𝙙', '/ping'],
+['𝙎𝙥𝙚𝙚𝙙', '/ping'],
 ['𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪', '#menu']
 ], m,)}
 
